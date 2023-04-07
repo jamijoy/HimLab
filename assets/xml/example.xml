@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<Events>  
+    <EventItem id="101">  
+        <Country>India</Country>  
+        <Phone Link="12345">Home</Phone>  
+    </EventItem>  
+    <EventItem id="102">  
+        <Country>USA</Country>  
+        <Phone Link="123">LandLine</Phone>  
+    </EventItem>  
+</Events>
